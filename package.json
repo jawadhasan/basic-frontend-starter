@@ -1,0 +1,29 @@
+{
+  "name": "basic-frontend-starter",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawadhasan/basic-frontend-starter.git"
+  },
+  "author": "Jawad Hasan Shani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawadhasan/basic-frontend-starter/issues"
+  },
+  "homepage": "https://github.com/jawadhasan/basic-frontend-starter#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "save": "^2.4.0"
+  }
+}
