@@ -1,2 +1,6 @@
 # basic-frontend-starter Demo
-Demo
+
+run npm install to install the dependencies
+run npm start to start the application
+
+
