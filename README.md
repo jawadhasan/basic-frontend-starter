@@ -1,6 +1,13 @@
 # basic-frontend-starter Demo
 
-run npm install to install the dependencies
-run npm start to start the application
+Simple frontend template using Lite-Server
+
+https://hexquote.com/basic-front-end-dev-environment-setup/
+
+### Setup
+`npm install`    
+`npm start`    
+
+
 
 
